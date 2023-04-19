@@ -23,3 +23,5 @@
 </details>
 
 glhf
+
+if cant connect try using a spoofer to change client to `Minecraft 1.12.2 - modded verison (1.12.2/MesterMC)`
